@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    background-color: rgba(0, 0, 0, 0.849);
+    height: 200px;
+}
+.text1{
+    text-align: justify;
+    font-size: 30px;
+    font-family: monospace;
+    color: rgb(207, 207, 207);
+}
+img{
+    height: 190px;
+    border-radius: 50%;
+}
+#right{
+    float: right;
+    margin-top: -173px;
+    margin-right: 20px;
+}
+h3{
+    margin-top: -20px;
+}
+.one{
+    border: solid thin black;
+    margin: 10px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 500px;
+    width: 33%; 
+    
+}
+.two{
+    border: solid thin black;
+    margin: 10px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 500px;
+    width: 33%;
+}
+.three{
+    border: solid thin black;
+    margin: 10px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 500px;
+    width: 33%;
+}
+.container{
+    margin-top: 30px;
+    height: 25px;
+    width: 50%;
+}
+.info{
+    background-color: #0d3168;
+    height: 40px;
+    font-size: x-large;
+    font-family: cursive;
+    font-weight: 900;
+    text-align: center;
+    color: orangered;
+    padding: 5px;
+}
+.container2{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.oneinfo{
+    text-align: center;
+    height: 30%;
+    font-family: serif;
+    color: orangered;
+    font-size: x-large;
+}
+img.music{
+    border-radius: 10px;
+    width: 100%;
+    height: 400px;
+}
+.twoinfo{
+    text-align: center;
+    height: 30%;
+    font-family: serif;
+    color: orangered;
+    font-size: x-large;
+}
+img.hostel{
+    border-radius: 10px;
+    width: 100%;
+    height: 400px;
+}
+.threeinfo{
+    text-align: center;
+    height: 30%;
+    font-family: serif;
+    color: orangered;
+    font-size: x-large;
+}
+img.sports{
+    border-radius: 10px;
+    width: 100%;
+    height: 400px;
+}
+.one:hover{
+    opacity: 0.7;
+    transform: scale(1.02);
+    transition: all 0.5s ease;
+    overflow: hidden;
+}
+.two:hover{
+    opacity: 0.7;
+    transform: scale(1.02);
+    transition: all 0.5s ease;
+    overflow: hidden;
+}
+.three:hover{
+    opacity: 0.7;
+    transform: scale(1.02);
+    transition: all 0.5s ease;
+    overflow: hidden;
+}
+.intro{
+    border: solid thin black;
+    margin: 10px;
+    width: 33%;
+    margin-left: 33.7%;
+    height: 700px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    background-color: yellow;
+}
+.me{
+    border-radius: 30%;
+    margin-top: 20px;
+}
+.intro{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 20px;
+    padding: 10px;
+}
+footer{
+    background-color: rgb(70, 11, 70);
+    height: 100px;
+    text-align: center;
+    font-size: large;
+}
